@@ -1,0 +1,1 @@
+enum LoadMoreProductsStatus { loading, stable }
